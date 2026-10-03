@@ -9,7 +9,7 @@ about:
     href: https://github.com/jw340
   - icon: linkedin
     text: LinkedIn
-    href: https://www.linkedin.com/in/jonathwhit/
+    href: https://www.linkedin.com/in/jonathanwhit/
   - icon: inboxes
     text: contact
     href: mailto:jowhitaker06@gmail.com
