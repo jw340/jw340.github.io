@@ -14,3 +14,5 @@ about:
     text: contact
     href: mailto:jowhitaker06@gmail.com
 ---
+
+My name is Jonathan Whitaker. I'm from Prosper, Texas and I attend the University of Arkansas as an industrial engineering student with a minor in engineering management and math.
