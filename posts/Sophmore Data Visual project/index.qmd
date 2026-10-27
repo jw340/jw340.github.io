@@ -1,11 +1,11 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2026-09-29"
+title: "DATA VISUALIZATION"
+author: "JONATHAN WHITAKER"
+date: "2026-10-27"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Sophomore level introduction to industrial engineering data visualization group project.
 
 ![](thumbnail.jpg)
 
