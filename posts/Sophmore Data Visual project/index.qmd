@@ -5,7 +5,7 @@ date: "2026-10-27"
 categories: [news]
 ---
 
-Sophomore level introduction to industrial engineering data visualization group project.
+Sophomore level introduction to industrial engineering data visualization group project. **Project is currently in progress.**
 
 ![](thumbnail.jpg)
 
