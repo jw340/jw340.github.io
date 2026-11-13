@@ -2,9 +2,9 @@
   {
     "objectID": "posts/Sophmore Data Visual project/index.html",
     "href": "posts/Sophmore Data Visual project/index.html",
-    "title": "DATA VISUALIZATION",
+    "title": "DATA VISUALIZATION OVER MOTERCYCLE WRECKS IN ARKANSAS",
     "section": "",
-    "text": "Sophomore level introduction to industrial engineering data visualization group project. Project is currently in progress.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Portfolio Links\njw340.github.io\nDaniel-Baran773.github.io\nsidneyn7.github.io\njosh-Castenada.github.io\njakebriseno.github.io\nkevinjacob077.github.io\n\nWhat is the most dangerous county for motorcycles? The most dangerous county was determined by the amount of fatal wrecks over the past 3 years. After cleaning the table to only contain the relevant columns. After creating the scatter plot using the coordinates of the counties, we created the second chart to better represent the counties.\n\nHow does weather affect crash rates? The most dangerous weather condition was determined by how many fatal wrecks occured during. We first cleaned the table to only include relevant information, then created a second table which counted the amount of fatal motorcycles wrecks for each weather condition.\n\nWhich month is the most dangerous for motorcycle wrecks? The most dangerous month was determined by counting the amount of fatal wrecks for each month each year. To create this bar chart we created a table which counted the amount of fatal crashes for each month and year.\n\nOver 3 years, did the amount of fatal crashes increase? To determine the answer we decided to count the amount of fatal crashes for each year. First we cleaned and sorted the data based on year. Next we created a table that counted the total amount of fatal crashes per year."
   },
   {
     "objectID": "about.html",
@@ -25,6 +25,6 @@
     "href": "project.html",
     "title": "Projects",
     "section": "",
-    "text": "DATA VISUALIZATION\n\n\n\n\n\n\nJONATHAN WHITAKER\n\n\nOct 27, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "DATA VISUALIZATION OVER MOTERCYCLE WRECKS IN ARKANSAS\n\n\n\n\n\n\nJonathan Whitaker, Daniel Baran, Sidney Nguyen, Kevin Jacob, Jake Briseno\n\n\nNov 23, 2026\n\n\n\n\n\n\nNo matching items"
   }
 ]
