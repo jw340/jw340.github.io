@@ -1,7 +1,7 @@
 ---
 title: "DATA VISUALIZATION OVER MOTERCYCLE WRECKS IN ARKANSAS"
-author:  "Jonathan Whitaker, Daniel Baran, Sidney Nguyen, Kevin Jacob, Jake Briseno, Joshua Castaneda"
-date: "2026-11-23"
+author: "Jonathan Whitaker, Daniel Baran, Sidney Nguyen, Kevin Jacob, Jake Briseno, Joshua Castaneda"
+date: "2026-11-13"
 image: "thumbnail.jpg"
 ---
 
